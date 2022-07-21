@@ -262,7 +262,7 @@ img {
 /* Contacto */
 
 .webp .contacto-bg {
-  background-image: url(../img/);
+  background-image: url(../img/contacto.webp);
 }
 .no-webp .contacto-bg {
   background-image: url(../img/contacto.jpg);
